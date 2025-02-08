@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi there, I'm Badriddin!
 
-<!--
-**NBadriddin/NBadriddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Junior Developer** | **Python & Django Enthusiast**  
+🚀 Passionate about backend development, APIs, and automation  
+🌱 Currently learning advanced Django, DRF, and Aiogram  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- **Languages**: Python, JavaScript, SQL  
+- **Frameworks**: Django, DRF, Aiogram  
+- **Frontend**: HTML, CSS, jQuery  
+- **Databases**: PostgreSQL, SQLite  
+- **Other**: Git, GitHub, REST API, Docker  
